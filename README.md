@@ -64,16 +64,15 @@
 ### Задание 1
 
 **Тест 1**  
-Вход: 3, 4, 5  
-Выход: `Площадь треугольника: 6.00`
+![Тест 1](<img width="327" height="127" alt="image" src="https://github.com/user-attachments/assets/fd17a0c1-42d8-4203-8fa3-d66959646758" />
+)
 
 **Тест 2**  
-Вход: 5.5, 6.2, 7.1  
-Выход: `Площадь треугольника: 16.43`
+![Тест 2](<img width="373" height="137" alt="image" src="https://github.com/user-attachments/assets/530ed8d6-7a05-4cc2-aac1-99a4caa08ee8" />)
 
 **Тест 3**  
-Вход: 10, 10, 10  
-Выход: `Площадь треугольника: 43.30`
+![Тест 2](<img width="349" height="130" alt="image" src="https://github.com/user-attachments/assets/24f65005-bd3e-4a64-93ff-959449fa8e6c" />)
+
 
 ### Задание 2
 
