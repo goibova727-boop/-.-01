@@ -64,8 +64,8 @@
 ### Задание 1
 
 **Тест 1**  
-![Тест 1](<img width="327" height="127" alt="image" src="https://github.com/user-attachments/assets/fd17a0c1-42d8-4203-8fa3-d66959646758" />
-)
+![Тест 1](<img width="349" height="130" alt="test3" src="https://github.com/user-attachments/assets/31d1a72e-1750-4717-9eaf-48c06731be31" />)
+
 
 **Тест 2**  
 ![Тест 2](<img width="373" height="137" alt="image" src="https://github.com/user-attachments/assets/530ed8d6-7a05-4cc2-aac1-99a4caa08ee8" />)
